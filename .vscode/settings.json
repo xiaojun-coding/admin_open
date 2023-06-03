@@ -1,0 +1,48 @@
+{
+  // 保存时自动格式化
+  "editor.formatOnType": true,
+  "editor.formatOnSave": true,
+  // eslint 格式化，如果使用的话
+  // "editor.codeActionsOnSave": {
+  //   "source.fixAll.eslint": true
+  // },
+  // prettier 格式化
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "[vue]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[typescript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "cSpell.words": [
+    "ciphertext",
+    "contenteditable",
+    "daterange",
+    "datetimerange",
+    "descript",
+    "dictitem",
+    "dicttype",
+    "echarts",
+    "expstatus",
+    "focusring",
+    "INTLIFY",
+    "ipaddr",
+    "iteachyou",
+    "loginlog",
+    "macarons",
+    "nprogress",
+    "Openeds",
+    "oper",
+    "operlog",
+    "pinia",
+    "pnpm",
+    "tailwindcss",
+    "taskgroup",
+    "unplugin",
+    "usagisah",
+    "wangeditor",
+    "xuexiluxian",
+    "yesorno",
+    "Hutool"
+  ]
+}
