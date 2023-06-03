@@ -47,6 +47,7 @@ export default defineConfig({
         target: "http://192.168.2.6:7778",
 				// http://demo.open.xuexiluxian.cn/api/u/loginByJson
         // target: "http://uat.admin.banlu.xuexiluxian.cn/api",
+				// 接口地址 http://doc.xuexiluxian.cn/web/#/212/1687
 				target: "http://demo.open.xuexiluxian.cn/api",
         changeOrigin: true,
         rewrite: path => path.replace(/^\/api/, "")
